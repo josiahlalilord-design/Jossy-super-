@@ -3,9 +3,10 @@ Jossy-super-chatbot 🤖
 **Screenshots:**
 ![Chat UI](Screenshot_20260612-224035.jpg)
 ![Personality Select](Screenshot_20260612-2240XX.jpg)
-
 **Screenshots:**
 ![Chat UI](Screenshot_20260612-224035.jpg)
+
+![Personality Select](Screenshot_20260612-2240XX.jpg)
 
 WhatsApp-style AI chatbot with 4 personalities + image upload. Built in 1 week with Flask + PythonAnywhere.
 
